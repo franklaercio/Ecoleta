@@ -24,10 +24,12 @@
 # Ecoleta
 
 Project developed in partnership with Rocktseat at Next Level Work. This project aims to inform the points of collection of recyclable waste.
-
-|<img src="assets/web_1.png" width="400">|
-
-|<img src="assets/mobile_1.jpeg" width="300">|<img src="assets/mobile_2.jpeg" width="300">|<img src="assets/mobile_3.jpeg" width="300">|
+<p align="center">
+<img src="assets/web_1.png">
+</p>	
+<p align="center">
+<img src="assets/mobile_1.jpeg" width="300">  <img src="assets/mobile_2.jpeg" width="300">  <img src="assets/mobile_3.jpeg" width="300">
+</p>	
 
 ## Getting Started
 
