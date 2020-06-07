@@ -27,7 +27,7 @@ Project developed in partnership with Rocktseat at Next Level Work. This project
 <p align="center">
 <img src="assets/web_1.png">
 </p>	
-<p align="center">
+<p>
 <img src="assets/mobile_1.jpeg" width="300">  <img src="assets/mobile_2.jpeg" width="300">  <img src="assets/mobile_3.jpeg" width="300">
 </p>	
 
