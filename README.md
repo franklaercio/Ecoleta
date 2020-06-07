@@ -13,7 +13,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/franklaercio/Ecoleta">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/franklaercio/Ecoleta">
+  <img alt="Code size" src="https://img.shields.io/github/languages/code-size/franklaercio/Ecoleta">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    <a href="https://github.com/franklaercio/Ecoleta/stargazers">
