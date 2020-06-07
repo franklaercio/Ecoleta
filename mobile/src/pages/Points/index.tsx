@@ -90,7 +90,6 @@ const Points = () => {
   }
 
   function handleNavigateToDetail(id: number){
-    console.log(id);
     navigation.navigate('Detail', {point_id: id});
   }
 

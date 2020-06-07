@@ -60,14 +60,14 @@ class PointsController{
             return response.status(400).json({message: 'Point not found.'});
         }
 
-        const serializedPoints = {
+/*         const serializedPoints = {
             ...point,
-            image_url: `http://192.168.0.110:3333/uploads/${point.image}`, //adicionamos o link das imagens
-        };
+            image_url: `http://192.168.1.4:3333/uploads/${point.image}`, //adicionamos o link das imagens
+        }; */
 
         const items = await knex('items').join('point_items', 'items.id','=','point_items.item_id').where('point_items.point_id', id);
         
-        return response.json({serializedPoints, items}); 
+        return response.json({point, items}); 
     }
 
     async index(request: Request, response: Response){
@@ -88,7 +88,7 @@ class PointsController{
         const serializedPoints = points.map((point) => {
           return {
             ...point,
-            image_url: `http://192.168.0.110:3333/uploads/${point.image}`, //adicionamos o link das imagens
+            image_url: `http://192.168.1.4:3333/uploads/${point.image}`, //adicionamos o link das imagens
           };
         });
     
