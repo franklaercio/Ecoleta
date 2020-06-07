@@ -25,11 +25,15 @@
 
 Project developed in partnership with Rocktseat at Next Level Work. This project aims to inform the points of collection of recyclable waste.
 
-<img height="400" src="./web/src/assets/Ecoleta.png" align="right">
+<img height="400" src="./assets/web_1.png" align="left">
 
-<img height="400" src="./web/src/assets/Ecoleta.png" align="right">
+<img height="400" src="./assets/web_2.png" align="left">
 
-<img height="400" src="./web/src/assets/Ecoleta.png" align="right">
+<img height="400" src="./assets/mobile_1.png" align="left">
+
+<img height="400" src="./assets/mobile_2.png" align="left">
+
+<img height="400" src="./assets/mobile_3.png" align="left">
 
 ## Getting Started
 
