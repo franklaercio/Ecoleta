@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/frank-laercio/">
-    <img alt="Made by franklaercio" src="https://img.shields.io/badge/Likedin-Made%20by%20franklaercio-blue">
+    <img alt="Made by franklaercio" src="https://img.shields.io/badge/Linkedin-Made%20by%20franklaercio-blue">
   </a>
   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/franklaercio/Ecoleta?color=%2304D361">
@@ -67,7 +67,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/franklaercio/Ecoleta/tags). 
+For the versions available, see the [tags on this repository](https://github.com/franklaercio/Ecoleta/tags). 
 
 ## Authors
 
