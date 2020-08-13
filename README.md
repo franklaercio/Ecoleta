@@ -21,7 +21,7 @@
   </a>
 </p>
 
-# Ecoleta
+## :newspaper: Resume of application
 
 Project developed in partnership with Rocktseat at Next Level Work. This project aims to inform the points of collection of recyclable waste.
 <p align="center">
@@ -31,7 +31,7 @@ Project developed in partnership with Rocktseat at Next Level Work. This project
 <img src="assets/mobile_1.jpeg" width="200">  <img src="assets/mobile_2.jpeg" width="200">  <img src="assets/mobile_3.jpeg" width="200">
 </p>	
 
-## Getting Started
+## :mag_right: Getting Started
 
 To start the project you need to install NodeJs, React, React Native and Sqlite3.
 
@@ -61,25 +61,25 @@ To start the project you need to install NodeJs, React, React Native and Sqlite3
 
 ```expo start```
 
-## Contributing
+## :family: Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
+## :chart_with_upwards_trend: Versioning
 
 For the versions available, see the [tags on this repository](https://github.com/franklaercio/Ecoleta/tags). 
 
-## Authors
+## :man_technologist: Authors
 
 * **Frank Laércio** - [franklaercio](https://github.com/franklaercio)
 
 See also the list of [contributors](https://github.com/franklaercio/Ecoleta/contributors) who participated in this project.
 
-## License
+## :clipboard: License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## :newspaper: Acknowledgments
 
 * Recycling
 * NodeJs
