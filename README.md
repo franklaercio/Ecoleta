@@ -23,7 +23,7 @@
 
 ## :bookmark_tabs: Resume of application
 
-Project developed in partnership with Rocktseat at Next Level Work. This project aims to inform the points of collection of recyclable waste.
+Project developed in partnership with Rocktseat at Next Level Week. This project aims to inform the points of collection of recyclable waste.
 <p align="center">
 <img src="assets/web_1.png">
 </p>	
